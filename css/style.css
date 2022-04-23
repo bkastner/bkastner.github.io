@@ -2,14 +2,16 @@ h1 {
   color: #0000ff;
 }
 
-.navbar {
+ /* .navbar {
   color: #00ff00;
   background-color: #00ff00;
   border-color: #ff0000;
   border-radius: 10000000000;
   border-width: 20;
   border-style: solid;
-}
+
+} */
+/*
 
 .navbar-light {
   color: #00ff00;
@@ -20,4 +22,13 @@ h1 {
   border-style: solid;
   border-width: 10;
   border-color: #ff0000;
+  margin: 10px;
+  padding: 10px
+
 }
+
+.nav-link {
+  color: #000000;
+  margin: 10px;
+  padding: 10px;
+} */
