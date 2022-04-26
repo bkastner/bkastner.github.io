@@ -2,33 +2,23 @@ h1 {
   color: #0000ff;
 }
 
- /* .navbar {
-  color: #00ff00;
-  background-color: #00ff00;
+ .container-fluid {
   border-color: #ff0000;
-  border-radius: 10000000000;
-  border-width: 20;
   border-style: solid;
 
-} */
-/*
-
-.navbar-light {
-  color: #00ff00;
 }
-
-
-.nav-item {
-  border-style: solid;
-  border-width: 10;
+ .container-lg {
   border-color: #ff0000;
-  margin: 10px;
-  padding: 10px
+  border-style: solid;
 
 }
+ .container-sm {
+  border-color: #ff0000;
+  border-style: solid;
 
-.nav-link {
-  color: #000000;
-  margin: 10px;
-  padding: 10px;
-} */
+}
+ .container-md {
+  border-color: #ff0000;
+  border-style: solid;
+
+}
