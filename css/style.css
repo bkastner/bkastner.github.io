@@ -1,24 +1,18 @@
-h1 {
-  color: #0000ff;
-}
+ .navbar {
 
- .container-fluid {
-  border-color: #ff0000;
-  border-style: solid;
+  background-color: #4FDB56;
+
 
 }
- .container-lg {
-  border-color: #ff0000;
-  border-style: solid;
+
+.nav-link {
+  color: #000000;
 
 }
- .container-sm {
-  border-color: #ff0000;
-  border-style: solid;
 
-}
- .container-md {
-  border-color: #ff0000;
-  border-style: solid;
 
-}
+/* .btn-primary {
+  color: black;
+  background-color: #4FDB56;
+
+} */
