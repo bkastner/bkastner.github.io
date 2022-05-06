@@ -38,3 +38,10 @@
   color: black;
   border-color: #F29B5C;
 }
+
+.card-title-link {
+  color: #B37244;
+}
+.card-title-link:hover {
+  color: #E89358;
+}
