@@ -49,3 +49,10 @@
 .portfolio-card {
   background-color: #FFECD9;
 }
+
+.email-link {
+  color: #B37244;
+}
+.email-link:hover {
+  color: #E89358;
+}
