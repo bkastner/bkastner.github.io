@@ -1,6 +1,6 @@
  .navbar {
 
-  background-color: #4FDB56;
+  background-color: #E89358;
 
 
 }
@@ -11,8 +11,13 @@
 }
 
 
-/* .btn-primary {
+.btn-primary {
   color: black;
-  background-color: #4FDB56;
+  background-color: #E89358;
 
-} */
+}
+
+.btn-primary:hover {
+  color: black;
+  background-color: #FFB66E;
+}
