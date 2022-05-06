@@ -14,12 +14,14 @@
 .btn-primary {
   color: black;
   background-color: #E89358;
+  border-color: #E89358;
 
 }
 
 .btn-primary:hover {
   color: black;
   background-color: #FFB66E;
+  border-color: #FFB66E;
 }
 
 
@@ -34,5 +36,5 @@
 .btn-link:hover {
   background-color: #F29B5C;
   color: black;
-  border
+  border-color: #F29B5C;
 }
