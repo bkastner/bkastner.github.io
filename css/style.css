@@ -1,21 +1,15 @@
  .navbar {
-
   background-color: #E89358;
-
-
 }
 
 .nav-link {
   color: #000000;
-
 }
-
 
 .btn-primary {
   color: black;
   background-color: #E89358;
   border-color: #E89358;
-
 }
 
 .btn-primary:hover {
@@ -33,6 +27,7 @@
 .btn-link {
   color: black;
 }
+
 .btn-link:hover {
   background-color: #F29B5C;
   color: black;
@@ -42,6 +37,7 @@
 .card-title-link {
   color: #B37244;
 }
+
 .card-title-link:hover {
   color: #E89358;
 }
@@ -53,6 +49,7 @@
 .in-text-link {
   color: #B37244;
 }
+
 .in-text-link:hover {
   color: #E89358;
 }
